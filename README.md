@@ -44,7 +44,7 @@ Tech Stack: Tailwind CSS, PHP, MySQL.
 GitHub Repo: https://github.com/emmanuel-nwafor?tab=repositories
 
 <h2>🌐 Connect With Me</h2>
-<hr>
+
 Portfolio: Your Portfolio Link
 
 LinkedIn: https://www.linkedin.com/in/emmanuel-chinecherem-767739284/
