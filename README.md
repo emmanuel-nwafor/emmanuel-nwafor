@@ -2,11 +2,11 @@
 
 Hello! I'm Emmanuel Nwafor, a passionate and detail-oriented developer specializing in crafting dynamic and user-friendly web applications. With a strong foundation in both frontend and backend technologies, I enjoy turning ideas into scalable and efficient solutions 🗼🗼. 
 
-🚀 Tech Stack
+<h2>🚀 Tech Stack</h2>
 
 Here are the tools and technologies I work with:
 
-Frontend
+<b>Frontend</b>
 
 HTML, CSS, Tailwind CSS: Building responsive and accessible designs.
 
@@ -14,7 +14,7 @@ JavaScript, jQuery: Adding interactivity and dynamic behavior.
 
 React.js, Angular.js: Creating robust single-page applications (SPAs).
 
-Backend
+<b>Backend</b>
 
 PHP: Developing server-side logic and integrations.
 
