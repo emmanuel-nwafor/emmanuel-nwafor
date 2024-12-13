@@ -52,7 +52,7 @@ GitHub Repo: Link to repository
 
 Portfolio: Your Portfolio Link
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/emmanuel-chinecherem-767739284/
 
 Email: echinecherem729@gmail.com
 
