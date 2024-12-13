@@ -54,7 +54,7 @@ Portfolio: Your Portfolio Link
 
 LinkedIn: Your LinkedIn Profile
 
-Email: YourEmail@example.com
+Email: echinecherem729@gmail.com
 
 Let’s collaborate and create something amazing together! 🚀
 
