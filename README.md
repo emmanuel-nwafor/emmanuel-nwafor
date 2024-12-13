@@ -1,4 +1,4 @@
-Welcome to My GitHub Profile
+<h1>Welcome to My GitHub Profile</h1>
 
 Hello! I'm Emmanuel Nwafor, a passionate and detail-oriented developer specializing in crafting dynamic and user-friendly web applications. With a strong foundation in both frontend and backend technologies, I enjoy turning ideas into scalable and efficient solutions 🗼🗼. 
 
