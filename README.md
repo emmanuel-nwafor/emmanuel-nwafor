@@ -1,21 +1,20 @@
 <h1 align="center">🚀 Emmanuel Nwafor</h1>
 <p align="center">
-  A passionate developer crafting sleek, scalable, and smart web solutions.
+  <strong>Fullstack Web & Mobile Developer | Based in Enugu, Nigeria</strong><br/>
+  I craft sleek, scalable, and smart digital solutions that solve real problems.
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Emmanuel Nwafor**, a creative fullstack developer with a strong passion for building interactive, responsive, and real-world web solutions. I enjoy transforming complex problems into simple, beautiful, and intuitive designs.
+Hey there! I’m **Emmanuel Nwafor**, a creative and detail-driven developer with a knack for building modern web and mobile applications. From frontend UI magic to backend logic, I love turning ideas into real-world, functional experiences.
 
-From frontend interfaces to backend logic, I love bringing ideas to life using tools like **React**, **Tailwind**, **Node.js**, and **PHP**. I’m currently exploring mobile development with **React Native** and always on the lookout for ways to level up my skills.
+I specialize in technologies like **React**, **Tailwind**, **PHP**, and **Node.js**, and I’ve recently added **React Native** to my toolbox to build sleek mobile apps. Whether it's a landing page, dashboard, or fullstack solution, I’m all about clean code and real-world impact.
 
-Whether it's a full web app, a landing page, or a mobile project — I’m all about shipping clean code and meaningful user experiences.
-
----
-
-## 🧰 Tech Stack & Skills
+🌍 **Location:** Enugu, Nigeria  
+🧠 **Currently Learning:** Advanced backend architecture and mobile-first development  
+🤝 **Open to:** Freelance, collaboration, remote roles, internships
 
 ---
 
@@ -49,7 +48,7 @@ Whether it's a full web app, a landing page, or a mobile project — I’m all a
 ### 📁 Portfolio App  
 **⚡ Description:** A stylish single-page portfolio showcasing my dev journey  
 **🧰 Stack:** React.js  
-**🔗 Repo:** [View Repo](https://github.com/emmanuel-nwafor/portfolio)
+**🔗 Repo:** [View Repo](https://github.com/emmanuel-nwafor/eco-studios)
 
 ---
 
@@ -60,11 +59,13 @@ Whether it's a full web app, a landing page, or a mobile project — I’m all a
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
-- 🌐 **Portfolio:** [eco-studios.vercel.app](https://eco-studios.vercel.app)  
-- 💼 **LinkedIn:** [Emmanuel Chinecherem](https://www.linkedin.com/in/emmanuel-chinecherem-767739284/)  
-- 📧 **Email:** echinecherem729@gmail.com
+<p align="center">
+  🔗 <strong>Portfolio:</strong> <a href="https://eco-studios.vercel.app">eco-studios.vercel.app</a><br/>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/emmanuel-chinecherem-767739284/">View Profile</a><br/>
+  📧 <strong>Email:</strong> echinecherem729@gmail.com
+</p>
 
 ---
 
