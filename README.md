@@ -5,6 +5,20 @@
 
 ---
 
+## 👋 About Me
+
+I'm **Emmanuel Nwafor**, a creative fullstack developer with a strong passion for building interactive, responsive, and real-world web solutions. I enjoy transforming complex problems into simple, beautiful, and intuitive designs.
+
+From frontend interfaces to backend logic, I love bringing ideas to life using tools like **React**, **Tailwind**, **Node.js**, and **PHP**. I’m currently exploring mobile development with **React Native** and always on the lookout for ways to level up my skills.
+
+Whether it's a full web app, a landing page, or a mobile project — I’m all about shipping clean code and meaningful user experiences.
+
+---
+
+## 🧰 Tech Stack & Skills
+
+---
+
 ## 🧰 Tech Stack & Skills
 
 ### 🛠️ Backend Development  
@@ -20,6 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white)
 
 ### ⚙️ Tools & Platforms  
@@ -47,7 +62,7 @@
 
 ## 🌍 Connect With Me
 
-- 🌐 **Portfolio:** _Add your link here_  
+- 🌐 **Portfolio:** [eco-studios.vercel.app](https://eco-studios.vercel.app)  
 - 💼 **LinkedIn:** [Emmanuel Chinecherem](https://www.linkedin.com/in/emmanuel-chinecherem-767739284/)  
 - 📧 **Email:** echinecherem729@gmail.com
 
