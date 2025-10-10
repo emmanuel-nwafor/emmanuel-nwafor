@@ -54,7 +54,8 @@ I’m continuously improving my skills while exploring advanced backend systems 
 
 ### Portfolio App  
 A modern, single-page web portfolio built with React.js.  
-**Repo:** [github.com/emmanuel-nwafor/portfolio](https://github.com/emmanuel-nwafor/portfolio)
+**Repo:** [https://github.com/emmanuel-nwafor/eco-studio)
+
 
 ### Foremade (E-Commerce Platform)  
 Scalable e-commerce platform with React, Firebase, Express.js, and Node.js. Integrated with secure payment gateways, serving 200+ users.  
