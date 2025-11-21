@@ -79,6 +79,3 @@ Stock and currency investment platform built with PHP, MySQL, and Tailwind CSS.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-nwafor&theme=radical)  
 
 ---
-
-## 🏆 Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=emmanuel-nwafor&theme=radical&margin-w=10&margin-h=10)
