@@ -12,9 +12,9 @@
   Building hyper-performant web/mobile applications and autonomous workflow ecosystems. Merging high-end UI/UX engineering with modern backends, robust testing pipelines, and intelligent AI automation.
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=emmanuel-nwafor&theme=radical&column=7&margin-w=15&no-bg=true" alt="Trophies" />
-</p>
+</p> -->
 
 ---
 
